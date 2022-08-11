@@ -1,0 +1,10 @@
+git init
+git add.
+git commit -m "mensagem commit"
+git push
+git branch
+git checkout nome-da-branch
+git checkout -b "nome da branch de origem" "nome da branch nova" | permite mudar e criar uma nova branch com base em outra
+git merge "branch a receber merge"
+git pull
+git push
